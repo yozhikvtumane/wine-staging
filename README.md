@@ -1,3 +1,6 @@
+Установка Adobe Photoshop CS5 на X/K/Ubuntu, без использования Play On Linux с описанием
+https://www.youtube.com/watch?v=c4OExtXovvE
+
 What is Wine Staging?
 ---------------------
 
